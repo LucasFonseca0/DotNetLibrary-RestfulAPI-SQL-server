@@ -1,4 +1,4 @@
-# WebAPI8
+# DotNetLibrary
 
 ## Description
 WebAPI8 is a .NET web application that provides RESTful APIs for managing authors and books. It allows users to perform CRUD operations on authors and books, as well as retrieve a list of authors and books.
